@@ -16,4 +16,8 @@
     <ProjectReference Include="..\Tasks.Collections.Generics\Tasks.Collections.Generics.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="TwoWayList\" />
+  </ItemGroup>
+
 </Project>
